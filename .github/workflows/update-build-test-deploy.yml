@@ -1,4 +1,4 @@
-name: updated-build-test-deploy
+name: update-build-test-deploy
 on: push
 jobs: 
   build:
